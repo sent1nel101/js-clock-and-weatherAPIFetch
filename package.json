@@ -1,0 +1,18 @@
+{
+  "name": "fetch-practice",
+  "version": "1.0.0",
+  "description": "practicing JS fetch and async",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Darec McDaniel",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}

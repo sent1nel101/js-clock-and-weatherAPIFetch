@@ -31,6 +31,7 @@ populateList();
 }
 
 
+// Set  and display the clock 
 
 (function(){
     document.addEventListener('DOMContentLoaded', function(){
